@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kenne\\Desktop\\CSE4410\\2D stick figure platformer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31DF80A6-9593-CEA4-787E-C9532B43C8C7}|Assembly-CSharp.csproj|c:\\users\\kenne\\desktop\\cse4410\\2d stick figure platformer\\assets\\scripts\\platformer player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31DF80A6-9593-CEA4-787E-C9532B43C8C7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\platformer player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Platformer Player.cs",
+              "DocumentMoniker": "C:\\Users\\kenne\\Desktop\\CSE4410\\2D stick figure platformer\\Assets\\Scripts\\Platformer Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Platformer Player.cs",
+              "ToolTip": "C:\\Users\\kenne\\Desktop\\CSE4410\\2D stick figure platformer\\Assets\\Scripts\\Platformer Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Platformer Player.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T01:52:17.885Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

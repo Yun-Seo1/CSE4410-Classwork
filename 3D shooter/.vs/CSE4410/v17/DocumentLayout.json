@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kenne\\Desktop\\CSE4410\\CSE4410\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B77838FF-69F9-FB9F-A589-CC4791942B93}|Assembly-CSharp.csproj|C:\\Users\\kenne\\Desktop\\CSE4410\\CSE4410\\assets\\scripts\\settingspopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B77838FF-69F9-FB9F-A589-CC4791942B93}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\settingspopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B77838FF-69F9-FB9F-A589-CC4791942B93}|Assembly-CSharp.csproj|C:\\Users\\kenne\\Desktop\\CSE4410\\CSE4410\\assets\\scripts\\fpsinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B77838FF-69F9-FB9F-A589-CC4791942B93}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fpsinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B77838FF-69F9-FB9F-A589-CC4791942B93}|Assembly-CSharp.csproj|C:\\Users\\kenne\\Desktop\\CSE4410\\CSE4410\\assets\\scripts\\playersprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B77838FF-69F9-FB9F-A589-CC4791942B93}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playersprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B77838FF-69F9-FB9F-A589-CC4791942B93}|Assembly-CSharp.csproj|c:\\users\\kenne\\desktop\\cse4410\\cse4410\\assets\\scripts\\wanderingai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B77838FF-69F9-FB9F-A589-CC4791942B93}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\wanderingai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B77838FF-69F9-FB9F-A589-CC4791942B93}|Assembly-CSharp.csproj|C:\\Users\\kenne\\Desktop\\CSE4410\\CSE4410\\assets\\scripts\\rayshooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B77838FF-69F9-FB9F-A589-CC4791942B93}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rayshooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B77838FF-69F9-FB9F-A589-CC4791942B93}|Assembly-CSharp.csproj|C:\\Users\\kenne\\Desktop\\CSE4410\\CSE4410\\assets\\scripts\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B77838FF-69F9-FB9F-A589-CC4791942B93}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B77838FF-69F9-FB9F-A589-CC4791942B93}|Assembly-CSharp.csproj|c:\\users\\kenne\\desktop\\cse4410\\cse4410\\assets\\scripts\\gameevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B77838FF-69F9-FB9F-A589-CC4791942B93}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B77838FF-69F9-FB9F-A589-CC4791942B93}|Assembly-CSharp.csproj|c:\\users\\kenne\\desktop\\cse4410\\cse4410\\assets\\scripts\\messenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B77838FF-69F9-FB9F-A589-CC4791942B93}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\messenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B77838FF-69F9-FB9F-A589-CC4791942B93}|Assembly-CSharp.csproj|C:\\Users\\kenne\\Desktop\\CSE4410\\CSE4410\\assets\\scripts\\mouselook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B77838FF-69F9-FB9F-A589-CC4791942B93}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mouselook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B77838FF-69F9-FB9F-A589-CC4791942B93}|Assembly-CSharp.csproj|C:\\Users\\kenne\\Desktop\\CSE4410\\CSE4410\\assets\\scripts\\playerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B77838FF-69F9-FB9F-A589-CC4791942B93}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WanderingAI.cs",
+              "DocumentMoniker": "C:\\Users\\kenne\\Desktop\\CSE4410\\CSE4410\\Assets\\Scripts\\WanderingAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WanderingAI.cs",
+              "ToolTip": "C:\\Users\\kenne\\Desktop\\CSE4410\\CSE4410\\Assets\\Scripts\\WanderingAI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WanderingAI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T03:28:08.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameEvent.cs",
+              "DocumentMoniker": "C:\\Users\\kenne\\Desktop\\CSE4410\\CSE4410\\Assets\\Scripts\\GameEvent.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameEvent.cs",
+              "ToolTip": "C:\\Users\\kenne\\Desktop\\CSE4410\\CSE4410\\Assets\\Scripts\\GameEvent.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T03:17:09.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Messenger.cs",
+              "DocumentMoniker": "C:\\Users\\kenne\\Desktop\\CSE4410\\CSE4410\\Assets\\Scripts\\Messenger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Messenger.cs",
+              "ToolTip": "C:\\Users\\kenne\\Desktop\\CSE4410\\CSE4410\\Assets\\Scripts\\Messenger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Messenger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T03:10:55.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SettingsPopup.cs",
+              "DocumentMoniker": "C:\\Users\\kenne\\Desktop\\CSE4410\\CSE4410\\Assets\\Scripts\\SettingsPopup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SettingsPopup.cs",
+              "ToolTip": "C:\\Users\\kenne\\Desktop\\CSE4410\\CSE4410\\Assets\\Scripts\\SettingsPopup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SettingsPopup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T02:48:23.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UIController.cs",
+              "DocumentMoniker": "C:\\Users\\kenne\\Desktop\\CSE4410\\CSE4410\\Assets\\Scripts\\UIController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIController.cs",
+              "ToolTip": "C:\\Users\\kenne\\Desktop\\CSE4410\\CSE4410\\Assets\\Scripts\\UIController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T02:29:43.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RayShooter.cs",
+              "DocumentMoniker": "C:\\Users\\kenne\\Desktop\\CSE4410\\CSE4410\\Assets\\Scripts\\RayShooter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RayShooter.cs",
+              "ToolTip": "C:\\Users\\kenne\\Desktop\\CSE4410\\CSE4410\\Assets\\Scripts\\RayShooter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RayShooter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T01:38:34.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerSprint.cs",
+              "DocumentMoniker": "C:\\Users\\kenne\\Desktop\\CSE4410\\CSE4410\\Assets\\Scripts\\PlayerSprint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerSprint.cs",
+              "ToolTip": "C:\\Users\\kenne\\Desktop\\CSE4410\\CSE4410\\Assets\\Scripts\\PlayerSprint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerSprint.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T06:29:11.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FPSInput.cs",
+              "DocumentMoniker": "C:\\Users\\kenne\\Desktop\\CSE4410\\CSE4410\\Assets\\Scripts\\FPSInput.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FPSInput.cs",
+              "ToolTip": "C:\\Users\\kenne\\Desktop\\CSE4410\\CSE4410\\Assets\\Scripts\\FPSInput.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FPSInput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T20:43:12.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MouseLook.cs",
+              "DocumentMoniker": "C:\\Users\\kenne\\Desktop\\CSE4410\\CSE4410\\Assets\\Scripts\\MouseLook.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MouseLook.cs",
+              "ToolTip": "C:\\Users\\kenne\\Desktop\\CSE4410\\CSE4410\\Assets\\Scripts\\MouseLook.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MouseLook.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwCIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T04:32:51.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayerScript.cs",
+              "DocumentMoniker": "C:\\Users\\kenne\\Desktop\\CSE4410\\CSE4410\\Assets\\Scripts\\PlayerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerScript.cs",
+              "ToolTip": "C:\\Users\\kenne\\Desktop\\CSE4410\\CSE4410\\Assets\\Scripts\\PlayerScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T20:44:27.14Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
